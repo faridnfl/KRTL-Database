@@ -1,6 +1,10 @@
 [
   {
-    "Name": "PEAK Online Fix",
+    "Name": "PEAK OnlineFix",
     "Url": "https://github.com/faridnfl/KRTL-Database/releases/download/PEAK/PEAK.Online.Fix.zip"
+  },
+  {
+    "Name": "Monster Hunter World OnlineFix",
+    "Url": "https://github.com/faridnfl/KRTL-Database/releases/download/Monster_Hunter_World/Monster.Hunter.World.zip"
   }
 ]
